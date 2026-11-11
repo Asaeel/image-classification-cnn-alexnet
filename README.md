@@ -14,3 +14,7 @@ An image classification project using Convolutional Neural Networks (CNN) and th
 - Python
 - TensorFlow / Keras or PyTorch (depending on what's used in the code)
 - NumPy, Matplotlib
+
+---
+
+تم عمل المشروع مع زميلتي [@reemfaiz](https://github.com/reemfaiz)
